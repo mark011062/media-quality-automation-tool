@@ -1,0 +1,19 @@
+venv/
+__pycache__/
+*.pyc
+.env
+
+# build artifacts
+dist/
+build/
+*.spec
+
+# bundled binaries
+ffmpeg/*.exe
+ffmpeg/**/*.exe
+
+# python junk
+__pycache__/
+*.pyc
+venv/
+.env
